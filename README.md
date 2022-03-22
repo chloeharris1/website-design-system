@@ -10,6 +10,7 @@ This style guide/design system includes sections on colors, fonts, and specific 
 
 ## Snapshot 
 
+![StyleGuide](https://user-images.githubusercontent.com/89039793/159590299-67a2a6be-6b3d-4472-b3a3-2f7b82a55175.png)
 
 ## Questions 
 [Email Me](Chloe.a.harris17@gmail.com) if you have any questions.
