@@ -1,0 +1,109 @@
+body {
+    margin: 0 10%;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    border: 2px solid #a2a2a6;
+    margin: 10px auto;
+    padding: 10px;
+    color: #000;
+    border-radius: 5px;
+}
+
+
+/* Color Swatches */
+
+.color-container {
+    width: 100%;
+}
+
+.color-swatch {
+    display: inline-block;
+    margin: 20px auto;
+    min-height: 100px;
+    width: 32%;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.color-swatch.rob-roy {
+    background-color: #f3cf79;
+}
+
+.color-swatch.pumpkin-skin {
+    background-color: #BE6A14;
+    color: #ffff;
+}
+
+.color-swatch.cognac {
+    background-color: #AC3F22;
+    color: #ffff;
+}
+
+.color-swatch.buccaneer {
+    background-color: #6D3B3A;
+    color: #ffff;
+}
+
+
+/* Font Labels */
+
+.font-panel {
+    display: inline-block;
+    width: 45%;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+
+/* Playfair */
+
+.playfair {
+    font-family: 'Playfair Display', serif;
+}
+
+.regular.playfair {
+    font-weight: 400;
+}
+
+.bold.playfair {
+    font-weight: 700;
+}
+
+.italic.playfair {
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+/* Montserrat */
+
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.regular.montserrat {
+    font-weight: 400;
+}
+
+.bold.montserrat {
+    font-weight: 700;
+}
+
+.italic.montserrat {
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+/* Jacques Francois */
+
+.jacques-francois {
+    font-family: 'Jacques Francois', serif;
+    font-weight: 400;
+}
