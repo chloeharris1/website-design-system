@@ -8,11 +8,10 @@ As websites grow larger and more complex, having a consistent set of styles help
 
 This style guide/design system includes sections on colors, fonts, and specific text styles. 
 
-# Snapshot 
+## Snapshot 
 
 
-
-# Questions 
+## Questions 
 [Email Me](Chloe.a.harris17@gmail.com) if you have any questions.
 
 Check out more of my work on [GitHub](https://github.com/chloeharris1).
